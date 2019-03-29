@@ -1,0 +1,11 @@
+.Rating__item {
+  font-size: 2rem;
+  color: #ecf0f1;
+  padding: 1rem;
+  font-weight: 600;
+}
+.Rating__item-properties {
+  display: flex;
+  justify-content: space-between;
+}
+/*# sourceMappingURL=Rating.css.map */

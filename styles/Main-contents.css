@@ -1,0 +1,14 @@
+.Main-contents {
+  width: 960px;
+  margin: 0 auto;
+  height: 100%;
+  display: block;
+}
+.Main-contents__h1 {
+  color: #ecf0f1;
+}
+body {
+  margin: 0;
+  background-color: #2c3e50;
+}
+/*# sourceMappingURL=Main-contents.css.map */

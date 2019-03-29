@@ -1,0 +1,16 @@
+.Site-navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 16rem;
+  background-color: #34495e;
+}
+.Site-navigation__links {
+  display: flex;
+}
+.Site-navigation__link {
+  text-decoration: none;
+  color: #ecf0f1;
+  font-weight: 600;
+  padding: 5px 1rem;
+}
+/*# sourceMappingURL=Site-navigation.css.map */
